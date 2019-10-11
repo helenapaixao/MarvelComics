@@ -1,0 +1,90 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Amazing Fantasy Facsimile",
+      "price": 179.9,
+      "image": "https://i.annihil.us/u/prod/marvel/i/mg/7/00/5d924ca64c787/portrait_uncanny.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Contagion #2",
+      "price": 139.9,
+      "image": "https://i.annihil.us/u/prod/marvel/i/mg/6/f0/5d924c9d433d8/portrait_uncanny.jpg"
+    },
+    {
+      "id": 3,
+      "title": "True Believers: X-Men - Pyro #1",
+      "price": 219.9,
+      "image": "https://i.annihil.us/u/prod/marvel/i/mg/6/30/5d92553bb21c7/portrait_uncanny.jpg"
+    },
+    {
+      "id": 5,
+      "title": "True Believers: X-Men - Betsy Braddock #1",
+      "price": 139.9,
+      "image": "https://i.annihil.us/u/prod/marvel/i/mg/d/c0/5d92551793162/portrait_uncanny.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Doctor Strange #40",
+      "price": 219.9,
+      "image": "https://i.annihil.us/u/prod/marvel/i/mg/3/d0/5d962079d29c0/portrait_uncanny.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Future Fight Firsts: White Fox #1",
+      "price": 179.9,
+      "image": "https://i.annihil.us/u/prod/marvel/i/mg/6/70/5d924c944b31d/portrait_uncanny.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Future Fight Firsts: White Fox #1",
+      "price": 179.9,
+      "image": "https://i.annihil.us/u/prod/marvel/i/mg/6/70/5d924c944b31d/portrait_uncanny.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Doctor Doom #1",
+      "price": 179.9,
+      "image": "https://i.annihil.us/u/prod/marvel/i/mg/6/c0/5d9261da0d599/portrait_uncanny.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Irredeemable Ant-Man Vol. 1: Low-Life (2007)Immortal Hulk Director's Cut #5",
+      "price": 179.9,
+      "image": "https://i.annihil.us/u/prod/marvel/i/mg/3/70/4bc353d839901/portrait_uncanny.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Loki #4",
+      "price": 179.9,
+      "image": "https://i.annihil.us/u/prod/marvel/i/mg/8/04/5d95fb59e9eaf/portrait_uncanny.jpg"
+    }
+  ]
+}
