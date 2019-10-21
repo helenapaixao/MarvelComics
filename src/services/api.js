@@ -14,6 +14,5 @@ const api = axios.create({
   method:'get',
   responseType:'json'
 });
-return instance;
 
 export default api;
