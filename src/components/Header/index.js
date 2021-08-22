@@ -8,6 +8,7 @@ import {connect} from 'react-redux';
 import {Container, Cart} from './styles';
 import logo from '../../assets/images/logo.png';
 
+
  function Header({cartSize}){
 
   return(
